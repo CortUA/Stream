@@ -14,7 +14,6 @@ lg.setNumber(0515656);
 lg.setWight(45.2);
 lg.name = "Ivan";
 
-
 samsung.setNumber(153595);
 samsung.setModel("samsung");
 samsung.setWight(12.5);

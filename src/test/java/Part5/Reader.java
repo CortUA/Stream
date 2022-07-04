@@ -31,7 +31,6 @@ public class Reader {
     public int getBook2() {
         return book2;
     }
-
     public void setBook2(int book2) {
         this.book2 = book2;
     }
