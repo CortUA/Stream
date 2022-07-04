@@ -6,3 +6,4 @@ public class Program {
         Person person1 = new Person("игорь", 33);
     }
 }
+//ready
